@@ -1,0 +1,15 @@
+// Place all the styles related to the Tweets controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.btn a {
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    display: block;
+    background: #999;
+    border-radius: 5px;
+    border-bottom: 4px solid #666;
+    color: #FFF;
+    margin: 0 auto;
+}
